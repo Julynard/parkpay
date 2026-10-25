@@ -3,7 +3,7 @@
 Pay-as-you-park: live slot availability, a fee calculator by rate blocks, card payments, sequential invoices and monthly rental contracts.
 
 > **Status: in development.** This repo is the plan and the write-up; the interactive demo is being built next.
-> Star or watch the repo to see it land. The live demo link will appear here.
+> **Demo preview:** https://julynard.github.io/parkpay/ (becomes the live demo when it ships).
 
 Part of [Julynard Tago-on's portfolio](https://julynardtago-on.netlify.app/#projects). Based on the parking platform at CoreProc where I built the session payment API, invoicing and partner integrations.
 Client code is private, so this is a clean-room demo with fictional data. No client names or real data.
